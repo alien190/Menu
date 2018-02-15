@@ -3,4 +3,5 @@
     <string name="item1">1</string>
     <string name="item2">Item2</string>
     <string name="item3">Item3</string>
+    <string name="hl_world">Hello World!</string>
 </resources>
